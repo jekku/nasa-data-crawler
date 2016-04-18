@@ -1,0 +1,24 @@
+{
+  "name": "nasa-data-crawler",
+  "version": "0.0.1",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekku/nasa-data-crawler.git"
+  },
+  "author": "Jekri Preclaro Orlina <jekri.orlina@any.tv> (http://github.com/jekku)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jekku/nasa-data-crawler/issues"
+  },
+  "homepage": "https://github.com/jekku/nasa-data-crawler#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "download": "^4.4.3",
+    "superagent": "^1.8.3"
+  }
+}
