@@ -1,0 +1,4 @@
+API_KEY: 
+baseUrl: https://api.nasa.gov/planetary/apod
+maxParallel: 5
+start: 1995-09-22
